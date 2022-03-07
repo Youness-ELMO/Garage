@@ -1,0 +1,19 @@
+On veut modéliser la gestion des voiture dans une garage .Une voiture est caractérisée par :
+ Num Matri : numéro de matricule Modéle le nom modéle de la voiture 
+ Marque : la marque de la voiture 
+Prix : le prix de la voiture 
+Date_P : La date de production .
+
+1 - créer la clase voiture avec les propriétés et la méthode ToString ( ) 
+2 - créer la clase garage qui contient le nom et une liste de voitures . 
+ Créer un formulaire permettant d'ajouter , modifier , supprimer et rechercher une voiture 
+
+3 Programmer les fonctionnalités suivantes : 
+a . Ajout 
+b . Modification 
+ c . Suppression 
+d . Recherche 
+
+2 Ajouter un formulaire qui permet d'ajouter un garage et lui associer plusieurs voitures 
+3 Ajouter un formulaire permettant d'afficher la liste des voitures d'un garage donnée après avoir saisie le nom 
+ du garage dans une zone de texte 
